@@ -1,9 +1,10 @@
 # Sorting_Hat
+
 Readme for project details.
 
 The Sorting Hat is a sentient hat at Hogwarts that magically determines which of the four school Houses each new student belongs most to. These four Houses are Gryffindor, Hufflepuff, Ravenclaw, and Slytherin.
 
-This project is an attempt to build something similar to that. It is a interactive chat bot that asks the user questions and sorts him/her in one of the four houses of Hogwarts depending upon the answers recieved.
+This project is an attempt to build something similar to that. It is a interactive chat bot that asks the user questions and sorts him/her in one of the four houses of Hogwarts depending upon the answers recieved. 
 
 The Sorting Hat project has been build on the google's actions console using Dialogflow. Dialogflow is a natural language understanding platform used to design and integrate a conversational user interface into mobile apps, web applications, devices, bots, interactive voice response systems, and so on. The questions, that the sorting hat asks the user, were written in the text responses of intents and the probable answers, expected from the user, were alloted as the training phrases.
 
