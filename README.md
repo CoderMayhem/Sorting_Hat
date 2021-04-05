@@ -20,3 +20,4 @@ https://drive.google.com/file/d/1wrEj8L3jOIDnjBRlEFdlcQgCldjbwyoJ/view?usp=shari
 Use your IIT-R G suite ID to open the link above.
 
 As it is a private project at the moment it can be run only on devices that are linked to a Google ID having access to the project. Drop a message with your email id if you want to run the bot on your device.
+(Status Update : incoming soon)
